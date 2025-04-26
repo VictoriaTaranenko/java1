@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5dd2250-79e3-4c62-93c4-614e03f9fb86" name="Changes" comment="add lesson3">
-      <change afterPath="$PROJECT_DIR$/src/homework3/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c5dd2250-79e3-4c62-93c4-614e03f9fb86" name="Changes" comment="add homework3">
+      <change afterPath="$PROJECT_DIR$/src/lesson4/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740731342281</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add homework3">
+      <created>1740966578814</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740966578814</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +198,7 @@
     <MESSAGE value="add lesson2" />
     <MESSAGE value="add homework2" />
     <MESSAGE value="add lesson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson3" />
+    <MESSAGE value="add homework3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework3" />
   </component>
 </project>
